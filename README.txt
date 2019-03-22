@@ -1,6 +1,6 @@
 QA Systems
 
-TEAM: HARSHITHA, SAMPATH
+TEAM: SAMPATH
 
 We implimented the paper with some minor modifications: https://www.cs.utah.edu/~riloff/pdfs/quarc.pdf and multiple rules in addition to it. 
 
@@ -39,7 +39,7 @@ We implimented the paper with some minor modifications: https://www.cs.utah.edu/
 
 • Tasks of team member:
 
-• Harshitha: qWordsBasedExpectedNer, predictAnsForQuestionSet, bagofwords score calculation, calculation of question type score – whoscore, qbasedNerscore, wherescore, howscore, whatscore, whenscore, process the output line - processTheOpLine, predicting the answers - predictAns, handle f-score, precision and recall, n-grams, question-type based similarity.
+• qWordsBasedExpectedNer, predictAnsForQuestionSet, bagofwords score calculation, calculation of question type score – whoscore, qbasedNerscore, wherescore, howscore, whatscore, whenscore, process the output line - processTheOpLine, predicting the answers - predictAns, handle f-score, precision and recall, n-grams, question-type based similarity.
 
 • Sampath: processData, stopwords,  WordNet similarity, lemmatize, process and clean the question and answers, NERbasedsimilarity, retrieve golden answers, POSForLine, Jaccard similarity, Cosine Similarity, question-type based similarity, handle f-score, precision and recall, creating Readme file.
 
