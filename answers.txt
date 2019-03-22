@@ -1,0 +1,18 @@
+QuestionID: 1999-W21-3-1
+Answer: just past midnight
+
+QuestionID: 1999-W21-3-2
+Answer: In Montreal someone actually slept in a tent out on the sidewalk infront of a movie theatre to make sure he got the first ticket
+
+QuestionID: 1999-W21-3-3
+Answer: 
+
+QuestionID: 1999-W21-3-4
+Answer: Ken
+
+QuestionID: 1999-W21-3-6
+Answer: 99 two 8
+
+QuestionID: 1999-W21-3-8
+Answer: on
+
