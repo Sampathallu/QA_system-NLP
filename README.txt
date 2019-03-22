@@ -39,9 +39,7 @@ We implimented the paper with some minor modifications: https://www.cs.utah.edu/
 
 • Tasks of team member:
 
-• qWordsBasedExpectedNer, predictAnsForQuestionSet, bagofwords score calculation, calculation of question type score – whoscore, qbasedNerscore, wherescore, howscore, whatscore, whenscore, process the output line - processTheOpLine, predicting the answers - predictAns, handle f-score, precision and recall, n-grams, question-type based similarity.
-
-• Sampath: processData, stopwords,  WordNet similarity, lemmatize, process and clean the question and answers, NERbasedsimilarity, retrieve golden answers, POSForLine, Jaccard similarity, Cosine Similarity, question-type based similarity, handle f-score, precision and recall, creating Readme file.
+• Tasks performed: qWordsBasedExpectedNer, predictAnsForQuestionSet, bagofwords score calculation, calculation of question type score – whoscore, qbasedNerscore, wherescore, howscore, whatscore, whenscore, process the output line - processTheOpLine, predicting the answers - predictAns, handle f-score, precision and recall, n-grams, question-type based similarity, processData, stopwords,  WordNet similarity, lemmatize, process and clean the question and answers, NERbasedsimilarity, retrieve golden answers, POSForLine, Jaccard similarity, Cosine Similarity, question-type based similarity, handle f-score, precision and recall, creating Readme file.
 
 • It will approximately take 10 minutes for our system to process the stories.
  
